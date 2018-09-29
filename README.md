@@ -20,4 +20,4 @@ Here's what you need
 
 ## Usage
 
-You can see the finish product at _
+You can see the finish product at https://msinjin.github.io/ddp_slidify/
